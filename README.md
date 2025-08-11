@@ -16,4 +16,4 @@
 
 😧:大数据: Spark(为什么天天没有资源)
 
-$$ \int_{birth}^{death}进步(time) = 优秀 $$
+$$ \int_{birth}^{death}study = life $$
